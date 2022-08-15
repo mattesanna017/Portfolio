@@ -62,11 +62,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Deployment
-![Alt text](deployment.gif)
+![Alt text](/src/assets/deployment.gif)
 
 ### GitHub repo for commits
 https://github.com/mattesanna017/React-Portfolio
 ### GitHub repository for deployment
-https://github.com/mattesanna017/portfolio
+https://github.com/mattesanna017/portfolio/tree/main
 ###  App 
 https://mattesanna017.github.io/portfolio/
