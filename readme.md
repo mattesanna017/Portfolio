@@ -58,18 +58,15 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - React js
 - postccs
 - tailwind
+- gh-pages
 
 
-## Screenshots-of-Deployment
-### 
+## Deployment
+![Alt text](deployment.gif)
 
-### 
-### 
-
-### 
-
-## URLS
-### GitHub repository
-
+### GitHub repo for commits
+https://github.com/mattesanna017/React-Portfolio
+### GitHub repository for deployment
+https://github.com/mattesanna017/portfolio
 ###  App 
-
+https://mattesanna017.github.io/portfolio/
